@@ -1,5 +1,5 @@
   
-<h2 align="left">Hi 👋! My name is Denis, from Russia</h2>
+<h3 align="left">Hi 👋! My name is Denis, from Russia</h3>
 
 <br>
 
