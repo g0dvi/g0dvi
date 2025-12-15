@@ -1,6 +1,8 @@
   
 <h2 align="left">Hi 👋! My name is Denis, from Russia</h2>
 
+<br>
+
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
